@@ -1,0 +1,2 @@
+# competition_aritificial_intelligence
+人工智能比赛
